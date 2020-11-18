@@ -1,0 +1,28 @@
+.ourwork{
+    padding:60px 0;
+}
+.heading{
+    font-size: 35px;
+    text-align: center;
+    color: #005e8c;
+    margin-bottom: 25px;
+}
+
+.ourwork p{
+    text-align: center;
+}
+
+.ourwork__button{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ourwork__button button{
+    margin: 15px;
+}
+
+.whycoose{
+    padding: 60px 0;
+    background-color: #eee;
+}
